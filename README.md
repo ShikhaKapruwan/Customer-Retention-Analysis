@@ -55,4 +55,28 @@ MS Word- Business Requirements Document (BRD)
 ## Dashboard
 ![CustomerRetentionAnalysis_Dashboard-Image](https://github.com/user-attachments/assets/b3ccab7a-9b87-4b3a-abfd-af0101d35526)
 
+## 🔍 Key Insights & Findings
+
+### 📊 Customer Segmentation using RFM Analysis
+- A significant *16%* of customers were classified as *Lost*, indicating no recent purchase activity and potential for reactivation campaigns.
+- *8.5%* of customers were flagged as *At Risk, requiring **urgent engagement* to prevent churn.
+
+### 💰 Revenue Insights
+- Top-performing RFM segments contributed the *highest share of revenue, highlighting opportunities to **nurture loyal segments*.
+- *Best Customers (444)* and *Loyal Customers (441–443)* showed *high frequency* and *monetary value*, making them ideal for cross-selling and retention efforts.
+
+### 📉 Churn Risk Indicators
+- Segments such as *At Risk (e.g., 133, 144)* and *Lost (e.g., 121–124)* revealed patterns of declining frequency and recency, signaling *behavioral churn*.
+- These insights serve as a base for *proactive customer retention campaigns*.
+
+
+## ✅ Recommendations
+
+- 🎯 *Launch targeted retention campaigns* for the *At Risk* and *Lost* customer segments, offering incentives or personalized messages to re-engage them.
+- 🛍 *Reward loyalty* among *Best* and *Loyal Customers* with exclusive offers, early product access, or loyalty points to increase lifetime value.
+- 📢 *Develop communication strategies* based on RFM scores—for example, sending reminders or discount offers to customers with low recency scores.
+- 📊 *Monitor segment behavior over time* to identify shifts in customer activity and adjust marketing strategies accordingly.
+- 📦 *Explore cross-selling and upselling opportunities* within high-frequency, high-monetary segments using behavioral data.
+
+
 
