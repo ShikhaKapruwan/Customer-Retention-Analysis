@@ -49,3 +49,7 @@ MS Word- Business Requirements Document (BRD)
 •	Revenue contribution by segment
 •	KPIs for high-value customer retention
 •	Ensured proper formatting, filters, and slicers to enhance usability and insight discovery
+
+- <a href="https://github.com/ShikhaKapruwan/Customer-Retention-Analysis/commit/21090cdfb139cada2a4f43f474b53f2539735d88">View Dashboard</a>
+
+
