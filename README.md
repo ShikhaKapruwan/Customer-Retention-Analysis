@@ -53,5 +53,6 @@ MS Word- Business Requirements Document (BRD)
 - <a href=https://github.com/ShikhaKapruwan/Customer-Retention-Analysis/blob/main/CustomerRetentionAnalysis_Dashboard.pbix>Dashboard Interaction</a>
 
 ## Dashboard
+![CustomerRetentionAnalysis_Dashboard-Image](https://github.com/user-attachments/assets/b3ccab7a-9b87-4b3a-abfd-af0101d35526)
 
 
