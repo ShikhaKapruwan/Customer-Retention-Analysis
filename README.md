@@ -79,4 +79,3 @@ MS Word- Business Requirements Document (BRD)
 - 📦 *Explore cross-selling and upselling opportunities* within high-frequency, high-monetary segments using behavioral data.
 
 
-
