@@ -9,3 +9,43 @@ The goal of this project is to identify and analyse customer retention patterns 
 
 ## Dataset Used
 - <a href="https://github.com/ShikhaKapruwan/Customer-Retention-Analysis/blob/main/OnlineRetail_dataset_original.xlsx">Dataset</a>
+
+##Tools Used
+Excel- Data cleaning, pivot tables, RFM score calculation using Excel’s quartile.INC function
+Power BI- Data Visualization, dashboard creation
+Github- Project documentation & Presentation
+MS Word- Business Requirements Document (BRD)
+
+## 🚀 Workflow Overview
+### 🧹 Excel- Data Cleaning & Preparation
+•	Removed rows with missing or zero values in *UnitPrice* or *Quantity* to ensure data accuracy.
+•	Created a new column to calculate *Revenue per customer* using the formula: UnitPrice × Quantity.
+
+### 📊 2. Initial Data Analysis (Excel - Pivot Table)
+- Built a pivot table to summarize key information:
+•	*CustomerID*
+•	*Order Frequency*
+•	*Last Purchased Date*
+•	*Total Revenue* per customer
+•	This helped in building the RFM (Recency, Frequency, Monetary) model.
+
+### 📈 3. RFM Segmentation 
+•	Calculated *Recency* using the most recent purchase date as a reference.
+•	Applied the *QUARTILE.INC* function to assign scores (1 to 4) for Recency, Frequency, and Monetary value.
+•	Created a composite RFM score for each customer (e.g., 444, 131, etc.).
+- Categorized customers into meaningful segments like:
+•	Best Customers
+•	Loyal Customers
+•	At Risk
+•	Lost Customers
+•	Recent Customers
+•	Need Attention
+
+### 📊 4. Power Bi- Data Visualization 
+•	Imported the cleaned RFM scores sheet into Power BI.
+•	Changed data types where required (e.g., dates, numeric fields) to ensure correct visuals.
+•	Designed an interactive dashboard to visualize:
+•	Customer segments distribution
+•	Revenue contribution by segment
+•	KPIs for high-value customer retention
+•	Ensured proper formatting, filters, and slicers to enhance usability and insight discovery
