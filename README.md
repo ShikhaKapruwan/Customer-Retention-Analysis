@@ -6,3 +6,6 @@ This Customer Retention Analysis project leverages RFM segmentation to categoriz
 
 ## Project Objective
 The goal of this project is to identify and analyse customer retention patterns using RFM (Recency, Frequency, Monetary) segmentation. By leveraging Excel and Power BI, this analysis helps businesses understand customer behaviour, identify at-risk customers, and develop strategies to improve retention.
+
+## Dataset Used
+- <a href="https://github.com/ShikhaKapruwan/Customer-Retention-Analysis/blob/main/OnlineRetail_dataset_original.xlsx">Dataset</a>
